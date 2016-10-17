@@ -8,8 +8,8 @@ from django.core.paginator import Paginator, InvalidPage
 from haystack.forms import SearchForm
 from haystack.query import SearchQuerySet
 from haystack.views import SearchView, RESULTS_PER_PAGE
-from restless.dj import DjangoResource
-from restless.exceptions import NotFound
+from restkiss.dj import DjangoResource
+from restkiss.exceptions import NotFound
 
 
 class SearchableResource(SearchView, DjangoResource):

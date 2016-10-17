@@ -4,9 +4,9 @@
 Resources
 =========
 
-restless_haystack.resources
+restkiss_haystack.resources
 ---------------------------
 
-.. automodule:: restless_haystack.resources
+.. automodule:: restkiss_haystack.resources
    :members: HaystackResource, haystack_resource_factory
    :undoc-members:

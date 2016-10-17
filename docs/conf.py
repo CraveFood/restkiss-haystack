@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# restless-haystack documentation build configuration file, created by
+# restkiss-haystack documentation build configuration file, created by
 # sphinx-quickstart on Thu Mar 10 15:05:08 2016.
 #
 # This file is execfile()d with the current directory set to its
@@ -52,7 +52,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'restless-haystack'
+project = 'restkiss-haystack'
 copyright = '2016, Bruno Marques'
 author = 'Bruno Marques'
 
@@ -206,7 +206,7 @@ html_static_path = ['_static']
 #html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'restless-haystackdoc'
+htmlhelp_basename = 'restkiss-haystackdoc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -228,7 +228,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'restless-haystack.tex', 'restless-haystack Documentation',
+    (master_doc, 'restkiss-haystack.tex', 'restkiss-haystack Documentation',
      'Bruno Marques', 'manual'),
 ]
 
@@ -258,7 +258,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'restless-haystack', 'restless-haystack Documentation',
+    (master_doc, 'restkiss-haystack', 'restkiss-haystack Documentation',
      [author], 1)
 ]
 
@@ -272,8 +272,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'restless-haystack', 'restless-haystack Documentation',
-     author, 'restless-haystack', 'One line description of project.',
+    (master_doc, 'restkiss-haystack', 'restkiss-haystack Documentation',
+     author, 'restkiss-haystack', 'One line description of project.',
      'Miscellaneous'),
 ]
 

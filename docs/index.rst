@@ -1,13 +1,13 @@
 =================
-restless-haystack
+restkiss-haystack
 =================
 
 Create a RESTful resource for Haystack_-based searches in Django_, using the
-lightweight Restless_ framework.
+lightweight Restkiss_ framework.
 
 .. _Django: http://djangoproject.com/
 .. _Haystack: http://haystacksearch.org/
-.. _Restless: https://github.com/toastdriven/restless
+.. _Restkiss: https://github.com/CraveFood/restkiss
 
 API Reference
 =============

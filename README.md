@@ -1,2 +1,2 @@
-# restless-haystack
-Integration of the Restless and Haystack libraries for Django
+# restkiss-haystack
+Integration of the Restkiss and Haystack libraries for Django

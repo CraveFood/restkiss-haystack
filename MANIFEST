@@ -2,5 +2,5 @@
 LICENSE
 README.md
 setup.py
-restless_haystack/__init__.py
-restless_haystack/resources.py
+restkiss_haystack/__init__.py
+restkiss_haystack/resources.py
